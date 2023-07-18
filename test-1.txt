@@ -2,3 +2,5 @@ Django is Very Very easy to Learn.---->Change-1
 
 Students are getting dificult to learn django why because they very very lazy and not
 practicing---->change-2
+
+Students are very good because they are not asking doubts---->change-3
